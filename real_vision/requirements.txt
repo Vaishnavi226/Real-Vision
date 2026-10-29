@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+groq
+dotenv
+PyPDF2
+python-docx
